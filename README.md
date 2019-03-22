@@ -1,3 +1,3 @@
 # ChatBotExperiment-
 
-This repo is mt first experimental attemp to build a chatbot. TBD.
+This repo is my first experimental attemp to build a ChatBot. ChatBot will answer questions about specific topic.
